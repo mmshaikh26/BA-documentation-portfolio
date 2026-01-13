@@ -28,7 +28,7 @@ A comprehensive suite of Business Analysis deliverables showcasing professional 
 
 ## 🚀 Live Demo
 
-Visit the live application: [BA Documentation Portfolio](https://yourusername.github.io/ba-documentation-portfolio/)
+Visit the live application: [BA Documentation Portfolio](https://mmshaikh26.github.io/ba-documentation-portfolio/)
 
 ## 💻 Technologies Used
 
