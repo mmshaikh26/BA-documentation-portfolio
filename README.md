@@ -36,6 +36,7 @@ Visit the live application: [BA Documentation Portfolio](https://yourusername.gi
 - Tailwind CSS
 - Lucide React Icons
 - Vite
+- Ai
 
 ## 🛠️ Local Development
 
@@ -64,7 +65,7 @@ npm run build
 
 ## 👤 Author
 
-Your Name - Business Analyst
+Your Name - Maruf Shaikh - Business Analyst
 
 ## 📄 License
 
