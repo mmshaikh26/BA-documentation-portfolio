@@ -28,7 +28,7 @@ jobs:
 
       - name: Upload artifact for GitHub Pages
         # Use the Pages-specific upload action (not the deprecated upload-artifact v3)
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
 
