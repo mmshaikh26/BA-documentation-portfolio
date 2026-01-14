@@ -7,7 +7,7 @@ const BADocumentation = () => {
 
   const brds = [
     {
-      title: "E-Commerce Mobile Application - BRD",
+      title: "E-Commerce Mobile Application - BRD 1111",
       project: "ShopEasy Mobile App",
       version: "1.0",
       date: "January 2026",
