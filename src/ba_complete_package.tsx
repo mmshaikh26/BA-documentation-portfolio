@@ -7,7 +7,7 @@ const BADocumentation = () => {
 
   const brds = [
     {
-      title: "E-Commerce Mobile Application - BRD 1111",
+      title: "E-Commerce Mobile Application - BRD",
       project: "ShopEasy Mobile App",
       version: "1.0",
       date: "January 2026",
@@ -41,7 +41,7 @@ const BADocumentation = () => {
         stakeholders: [
           { role: "Project Sponsor", name: "Sarah Johnson, VP Marketing", responsibility: "Budget approval and strategic direction" },
           { role: "Product Owner", name: "Mike Chen, Product Manager", responsibility: "Requirements prioritization" },
-          { role: "Business Analyst", name: "Alex Kumar", responsibility: "Requirements gathering and documentation" },
+          { role: "Business Analyst", name: "Maruf Shaikh", responsibility: "Requirements gathering and documentation" },
           { role: "End Users", name: "Mobile shoppers aged 18-45", responsibility: "Provide feedback and testing" }
         ],
         assumptions: [
