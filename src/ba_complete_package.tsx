@@ -12,17 +12,17 @@ const BADocumentation = () => {
       version: "1.0",
       date: "January 2026",
       content: {
-        executiveSummary: "ShopEasy requires a mobile application to expand market reach and provide customers with seamless shopping experience on mobile devices. The app will support iOS and Android platforms, integrating with existing web infrastructure.",
+        executiveSummary: "ShopEasy requires a mobile application to expand market reach and provide customers with seamless shopping experience on mobile devices. The app will support iOS and Android platforms, integrating with existing web infrastructure. ",
         businessObjectives: [
           "Increase mobile customer base by 40% within 6 months",
           "Improve customer engagement through push notifications",
           "Reduce cart abandonment rate by 25%",
-          "Enable offline browsing capabilities",
+          "Enable offline browsing capabilities ",
           "Achieve 4.5+ app store rating"
         ],
         scope: {
           inScope: [
-            "User registration and authentication",
+            "User registration and authentication ",
             "Product browsing and search",
             "Shopping cart management",
             "Secure payment processing",
@@ -40,7 +40,7 @@ const BADocumentation = () => {
         },
         stakeholders: [
           { role: "Project Sponsor", name: "Sarah Johnson, VP Marketing", responsibility: "Budget approval and strategic direction" },
-          { role: "Product Owner", name: "Mike Chen, Product Manager", responsibility: "Requirements prioritization" },
+          { role: "Product Owner", name: "Mike Tim, Product Manager", responsibility: "Requirements prioritization" },
           { role: "Business Analyst", name: "Maruf Shaikh", responsibility: "Requirements gathering and documentation" },
           { role: "End Users", name: "Mobile shoppers aged 18-45", responsibility: "Provide feedback and testing" }
         ],
